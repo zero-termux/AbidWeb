@@ -1,0 +1,48 @@
+/* style*/
+
+body {
+  background-color: #cbcbcb;
+}
+
+.nav {
+  background-color: black;
+  padding: 15px;
+  margin: 0;
+}
+
+.nav .utama a {
+  background-color: white;
+  color: black;
+}
+
+.nav  a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  border: 2px dashed white;
+  border-radius: 10px;
+  margin-right: 2px;
+  transition: 0.6s ease;
+}
+
+.nav a:hover {
+  background-color: white;
+  color: black;
+}
+
+header img {
+  border-radius: 50%;
+  border: 2px dashed black;
+}
+
+.tbl table ul {
+  padding-top: 10px
+}
+
+footer p {
+  background-color: black;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 40px;
+}
