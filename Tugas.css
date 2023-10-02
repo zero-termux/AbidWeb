@@ -18,11 +18,11 @@ body {
 .nav  a {
   text-decoration: none;
   position: relative;
-  right: 8px;
+  right: 9px;
   color: white;
-  padding: 8px;
+  padding: 5px;
   border: 2px dashed white;
-  border-radius: 10px;
+  border-radius: 8px;
   margin-right: 2px;
   transition: 0.6s ease;
 }
